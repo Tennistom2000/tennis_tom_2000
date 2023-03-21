@@ -1,2 +1,3 @@
 # tennis_tom_2000
-Create a platform to link small delivery demand and supply in local community
+#Create a platform if small items delivery
+Link demand and supply.
